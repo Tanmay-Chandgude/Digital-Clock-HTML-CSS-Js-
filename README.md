@@ -25,7 +25,7 @@ digital-clock/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Tanmay-Chandgude/digital-clock.git
+   git clone https://github.com/Tanmay-Chandgude/Digital-Clock-HTML-CSS-Js-
    ```
 
 2. **Navigate to the Project Directory**
